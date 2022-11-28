@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main data-theme="mytheme">
+  <main data-theme="dark">
     <div class="navbar bg-base-100">
       <div class="flex-none">
         <button class="btn btn-square btn-ghost">
@@ -50,7 +50,7 @@
       <div class="card-body">
         <h2 class="card-title">
           Shoes!
-          <div class="badge badge-secondary">NEW</div>
+          <div class="badge badge-secondary">OLD</div>
         </h2>
         <p>If a dog chews shoes whose shoes does he choose?</p>
         <div class="card-actions justify-end">
