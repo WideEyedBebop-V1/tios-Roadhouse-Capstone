@@ -2,6 +2,8 @@
 </script>
 
 <template>
-  <main data-theme="dark"></main>
+  <main data-theme="dark">
+    <router-view> </router-view>
+  </main>
 </template>
 

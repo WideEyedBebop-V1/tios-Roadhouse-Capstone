@@ -1,0 +1,9 @@
+{
+    "user": {
+        "id": 123,
+        "username": "Sasuke Uchiha",
+        "email": "sasuke.uchiha@email.com",
+        "accessLevel": 0,
+        "profilePicture": "https://preview.redd.it/r3b2ic3lylw61.jpg?auto=webp&s=6b78275917898bdcd7374fb35a122d6e20e62a14"
+    }
+}
